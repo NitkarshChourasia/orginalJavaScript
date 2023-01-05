@@ -12,4 +12,16 @@
 12. VE = 90 - Just check the outputs, will you.
 13. VE = 91 - Just check the output of 91.
 14. VE = 93 - Optimise it further, how would you do it?
-15. VE = 101 - Do optimise and do and implement all the fancy things, for sure!
+15. VE = 101 - Do optimise and do and implement all the fancy things, for sure! <!--Learn little bit about RegEx. -->
+16. VE = 102 - Understand the logic of the program, didn't got it. For sure, brother.
+17. E = 420 - Learn to use the eval() function with parameters in it like num1 operator num2.
+18. E = 417 - Learn to use arrays in python.
+19. E = 416 - Learn to solve through dictionary.
+20. E = 423 - Try to optimise the first function.
+21. E = 423 - Solved but understand the different logic behind it. <!-- Easily done, high priority -->
+22. E = 424 - Solve the regex one. <!-- Take your time-->
+23. E = 427 - Take your time with this regex also. <!-- Take your time -->
+24. E = 431 - Binary thing to understand.
+25. E = 436 - Solve the binary number thing.
+26. E = 437 - But understand the logic, because it was solved by my subconscious brain.
+27. E = 438 - Solve the given problem, efficiently.
